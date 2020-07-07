@@ -7,6 +7,7 @@ Lane, creator
 # Code Style #
 Standard
 # Screenshots #
+![Diagram of Objects and Messages](/documents/projects/boris_bikes/diagram.png?raw=true "Diagram")
 # Framework Used #
 ## Built with ##
 * Ruby
